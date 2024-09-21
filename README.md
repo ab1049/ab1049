@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- I'm a currently studying Computer Science and Economics @ Duke University!
+
 <!--
 **ab1049/ab1049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
